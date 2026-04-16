@@ -6,5 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb",
-   
+    "mcp[cli]>=1.27.0",
 ]
